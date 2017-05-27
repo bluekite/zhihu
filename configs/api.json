@@ -1,0 +1,7 @@
+{
+  "prefix" : "https://www.zhihu.com/api/v4/",
+  "topics" : "members/peredaviddeer/following-topic-contributions",
+  "topics_follow": "https://www.zhihu.com/node/TopicFollowBaseV2",
+
+  "questions": "members/peredaviddeer/following-questions"
+}
